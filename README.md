@@ -20,7 +20,7 @@ Check out example.py for examples
 
 **jajucha** requires [Python](https://www.python.org/) v3.7+ to run.
 
-Install **jajucha** from [PyPI](https://pypi.org/) using pip.
+Install **jajucha** from [PyPI](https://pypi.org/project/jajucha/) using pip.
 
 ```sh
 $ pip install jajucha
