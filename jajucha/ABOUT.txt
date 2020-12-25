@@ -1,4 +1,4 @@
-Jajucha controller v.2.2.1
+Jajucha controller v.2.2.2
 Copyright (c) 2020, Sanggyu Lee.
 All rights reserved.
 

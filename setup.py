@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 setuptools.setup(
     name='jajucha',
     packages=setuptools.find_packages(),
-    version='2.2.1',
+    version='2.2.2',
     license='MIT',
     description='Controller Library for jajucha, a model car for autonomous driving education.',
     long_description=long_description,
@@ -14,7 +14,7 @@ setuptools.setup(
     author='Sanggyu Lee',
     author_email='sanggyu523@naver.com',
     url='https://github.com/gyusang/jajucha',
-    download_url='https://github.com/gyusang/jajucha/archive/v_2_2_1.tar.gz',
+    download_url='https://github.com/gyusang/jajucha/archive/v_2_2_2.tar.gz',
     project_urls={
         'Source': 'https://github.com/gyusang/jajucha',
         'Report Bugs': 'https://github.com/gyusang/jajucha/issues'
