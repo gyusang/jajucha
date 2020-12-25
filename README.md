@@ -1,6 +1,6 @@
 # jajucha
 
-[![Build Status]()]()
+[![Build Status](https://travis-ci.com/gyusang/jajucha.svg?branch=main)](https://travis-ci.com/gyusang/jajucha)
 
 **jajucha** is a controller Library for jajucha, a model car for autonomous driving education.
 
