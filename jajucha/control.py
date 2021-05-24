@@ -242,7 +242,7 @@ class ImageControl(BaseControl):
         super().__init__(graphics)
         self.path = path
         os.chdir(path)
-        self.imList = glob.glob('*.jpg')
+        self.imList = sorted(glob.glob('*.jpg'))
         self.len = len(self.imList) // 2
         if self.len < 1:
             self.graphics.setCommandText('경로에 이미지가 없습니다. 경로를 확인해주세요.')
