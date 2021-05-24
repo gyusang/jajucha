@@ -6,4 +6,4 @@ command_port = 10523
 image_port = 11205
 address = (server_ip, command_port)
 image_address = (server_ip, image_port)
-version = "2.2.2"
+version = "2.2.3"
